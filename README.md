@@ -30,8 +30,8 @@ python --version
 
 ### 1. Клонирование проекта
 ```bash
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/fred-yagofarov1314/python
+cd python
 ```
 
 ### 2. Установка зависимостей
